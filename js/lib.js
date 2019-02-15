@@ -13,7 +13,7 @@ if((hypotenuse + opposite) <= adjacent || (hypotenuse + adjacent) <= opposite ||
 }
 else if(hypotenuse === opposite && hypotenuse === adjacent && opposite === adjacent){
 output.innerHTML=("Equilateral Triangle")
-// alert("Equilatera triangle")
+.
 }
 else if(hypotenuse === opposite || hypotenuse === adjacent || opposite === adjacent){
 output.innerHTML=("Isoceles Triangle")

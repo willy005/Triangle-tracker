@@ -9,10 +9,11 @@ function ShowResults(){
   var adjacent = sides[2]
 
 if((hypotenuse + opposite) <= adjacent || (hypotenuse + adjacent) <= opposite || (opposite + adjacent) <= hypotenuse) {
-  output.innerHTML=("No Triangle")
+  output.innerHTML=("Not a Definite Triangle")
 }
 else if(hypotenuse === opposite && hypotenuse === adjacent && opposite === adjacent){
 output.innerHTML=("Equilateral Triangle")
+// alert("Equilatera triangle")
 }
 else if(hypotenuse === opposite || hypotenuse === adjacent || opposite === adjacent){
 output.innerHTML=("Isoceles Triangle")

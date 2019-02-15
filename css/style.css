@@ -23,12 +23,26 @@ input.type{
   width: 200px;
   border: green;
 }
+#hypotenuse{
+  text-align: center;
+}
+#adjacent{
+  text-align: center;
+}
+#opposite{
+  text-align: center;
+}
 
 .button{
   text-align: center;
   border-radius: 100px;
 }
 
+#btn{
+  border-radius: 20px;
+  background-color: green;
+  border: green;
+}
 .label{
   text-align: center;
 }

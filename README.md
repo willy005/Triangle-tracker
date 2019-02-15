@@ -10,8 +10,8 @@ Deployment
 Enter the link into the url interface and click the enter.
 
 Built With
--Atom
-Under the languages HTML, CSS And Javascript!
+Atom
+Under the languages HTML, CSS and Javascript!
 
 How it works.
 1.

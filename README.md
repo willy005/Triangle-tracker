@@ -32,4 +32,4 @@ Example!
 Input - first value (7), second value (5), third value (8) --output- Triangle is Scalene.
 
 Authors
-Vynnel Omondi.
+Wilfred Mutura!

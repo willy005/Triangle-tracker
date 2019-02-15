@@ -18,6 +18,11 @@ input{
   width: 200px;
   border: green;
 }
+input.type{
+  border-radius: 50px;
+  width: 200px;
+  border: green;
+}
 
 .button{
   text-align: center;
@@ -30,7 +35,6 @@ input{
 
 .div {
   position: relative;
-  background-color: ;
   animation-name: example;
   animation-direction: reverse;
   text-align: center;

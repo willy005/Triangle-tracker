@@ -42,3 +42,13 @@ input.type{
   font-family: sans-serif;
   font-style: oblique;
 }
+
+.footer {
+  background-color: black;
+  height: 200px;
+  margin-top: 40px;
+}
+
+h2 {
+  text-align: center;
+}

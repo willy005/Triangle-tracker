@@ -21,7 +21,13 @@ Example!
  Output = values show an indefinite triangle.
 2.
 If the values entered are all equal to one another, then the program would show that an Equilateral triangle.
-Input - first value (8), second value (8), third value (8) --output - Triangle is Equilateral. 3- if two values in the input are equal, third different, the program would show an iscoceles triangle. --input - first value (6), second value (6), third value(5) --output - Triangle is Iscoceles. 4- if the values entered differ but don't exceed each other by much, triangle would be a Scalene triangle. --input - first value (7), second value (5), third value (8) --output- Triangle is Scalene.
+Input - first value (8), second value (8), third value (8) --output - Triangle is Equilateral.
+3.
+If two values in the input are equal, third different, the program would show an iscoceles triangle.
+Input - first value (6), second value (6), third value(5) --output - Triangle is Iscoceles.
+4.
+If the values entered differ but don't exceed each other by much, triangle would be a Scalene triangle.
+Input - first value (7), second value (5), third value (8) --output- Triangle is Scalene.
 
 Authors
 Vynnel Omondi.

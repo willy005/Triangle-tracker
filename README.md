@@ -4,7 +4,7 @@ This is an application that determines whether a set of three numbers can either
 Requirements
 A running network connection to the internet
 A web browser
-This link
+This link (https://willy005.github.io/Triangle-tracker/)
 
 Deployment
 Enter the link into the url interface and click the enter.

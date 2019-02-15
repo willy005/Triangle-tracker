@@ -44,7 +44,7 @@ input.type{
 }
 
 .footer {
-  background-color: black;
+  background-image: url("../image/smoky.jpg");
   height: 200px;
   margin-top: 40px;
 }

@@ -14,12 +14,12 @@ Atom
 Under the languages HTML, CSS and Javascript!
 
 How it works.
-#1.
+#
 If the sum of two sides is equal or exceeds the value of the third side, then the program will detect that the values do not form a definite triangle.
 Example!
  Input - hypotenuse (7), opposite (2), adjacent (19)
  Output = values show an indefinite triangle.
-2.
+#
 If the values entered are all equal to one another, then the program would show that an Equilateral triangle.
 Input - first value (8), second value (8), third value (8) --output - Triangle is Equilateral.
 3.

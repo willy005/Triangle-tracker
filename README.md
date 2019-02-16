@@ -28,12 +28,12 @@ If the values entered are all equal to one another, then the program would show 
 
 #
 If two values in the input are equal, third different, the program would show an iscoceles triangle.
-#Example!
+Example!
 #Input - first value (6), second value (6), third value(5)
 #output - Triangle is Iscoceles.
 #
 If the values entered differ but don't exceed each other by much, triangle would be a Scalene triangle.
-#Example!
+Example!
 #Input - first value (7), second value (5), third value (8)
 #Output- Triangle is Scalene.
 

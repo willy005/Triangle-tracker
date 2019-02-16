@@ -21,6 +21,6 @@ output.innerHTML=("This is an Isoceles Triangle!")
 }
 
 else if(hypotenuse!==opposite && hypotenuse!==adjacent && opposite!==adjacent){
-output.innerHTML=("This is an Isoceles Triangle!")
+output.innerHTML=("This is an scalene Triangle!")
 }
 }

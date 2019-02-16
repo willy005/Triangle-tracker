@@ -1,18 +1,18 @@
 #  Project Description!
 #This is an application that determines whether a set of three numbers can either make a scalene,Equilateral and or Isosceles triangle.
 #
-#  Requirements
-#A running network connection to the internet
+#  Requirements!
+#A running network connection to the internet.
 #A web browser
 #
-#  Deployment
+#  Deployment!
 #Enter the link (https://willy005.github.io/Triangle-tracker/) into the url interface and click the enter.
 #
-#  Built With
+#  Built With!
 #Atom
 #Under the languages HTML, CSS and Javascript!
 #
-#  How it works.
+#  How it works!
 #
 #If the sum of two sides is equal or exceeds the value of the third side, then the program will detect that the values do not form a definite triangle.
 #   Example!

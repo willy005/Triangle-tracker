@@ -37,5 +37,5 @@ If two values in the input are equal, third different, the program would show an
 #Output- Triangle is Scalene.
 #
 ##
-#Authors
-#Wilfred Mutura!
+#Authors!
+Wilfred Mutura!

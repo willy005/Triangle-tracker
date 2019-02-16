@@ -4,4 +4,4 @@
 #
 #The website allows you to determine whether a Triangle is an (Equilateral, Isoceles, Scalene or Not a Triangle at all!)
 #
-#The above copyright notice and permission notice is for the good of everyone accessing my Site!
+#The above copyright notice and permission notice is for the good of everyone accessing my Site.!
